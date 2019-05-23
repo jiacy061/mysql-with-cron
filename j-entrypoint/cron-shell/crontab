@@ -1,0 +1,1 @@
+* 4 * * * /j-entrypoint/cron-shell/backup.sh
